@@ -82,7 +82,7 @@ All models:
 
 <p align="center">
   <img src="resnet_umap_after.png" width="28%">
-  <img src="inception_umap_before.png" width="28%">
+  <img src="inceprtion_umap_before.png" width="28%">
   <img src="inception_umap_after.png" width="28%">
 </p>
 
